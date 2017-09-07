@@ -1,6 +1,5 @@
 #include <stdio.h>
 #define dsp printf
-
 int    ma\
 in(    vo\
 id){int i\
@@ -22,4 +21,5 @@ dsp    ("\
 k+1;}dsp(\
 "\n");}re\
 turn   0;}
+/**    **/
 /**    **/
